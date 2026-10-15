@@ -1,0 +1,5 @@
+- `[x]` Task 1: Update Room entities (`UsuarioEntity` with `vinculoStatus`, `AlarmeEntity` with `fotoUri`), DAOs, and Database (version 3)
+- `[x]` Task 2: Update Repository with methods for patient linking requests, doctor patients management, and accept/reject actions
+- `[/]` Task 3: Update MainActivity.kt for Doctor Pacientes tab (pending patients priority with accept/reject buttons & confirmation, patient detail view, alarm addition with photo picker)
+- `[ ]` Task 4: Update `AlarmAlertActivity` and `MedCard` to display remedy photos (`fotoUri`)
+- `[ ]` Task 5: Build and verify functionality
